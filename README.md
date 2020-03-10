@@ -1,18 +1,19 @@
-### Date created :
-10/03/2020 (dd/mm/yyyy)
+### Date created
+Include the date you created this project and README file.
 
-### Project Title :
-Data analysis project of data provided by Motivate company
+### Project Title
+Replace the Project Title
 
-### Description :
-Data analysis project of data provided by Motivate company of his bicycle-sharing systems in three Chicago, Newyork and washington using python with pandas and numpy packages 
+### Description
+Describe what your project is about and what it does
 
-### Files used :
-chicago.csv
-washington.csv
-Newyork.csv
-from https://www.divvybikes.com/system-data
-
+### Files used
+Include the files used
 
 ### Credits
-inspired by : Programming for Data Science for Enterprise Nanodegree Program
+It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+### author :
+Fullname: Hichem HAMLA
+Gmail: gh_hamla@esi.dz
+
+
