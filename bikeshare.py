@@ -30,7 +30,6 @@ def get_filters():
     
 
     # TO DO: get user input for month (all, january, february, ... , june)
-    months=('all', 'january', 'february','march','april','may',  'june')
     while True:
         month=input("which month you want (all, january, february, ... , june) ")
         month=month.lower()
@@ -40,7 +39,6 @@ def get_filters():
 
 
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
-    days=('all', 'monday','tuesday', 'wednesday', 'thursday', 'Friday',  'saturday', 'sunday')
     while True:
         day=input("which day  you want (all, monday, tuesday, ... sunday) ")
         day=day.lower()
